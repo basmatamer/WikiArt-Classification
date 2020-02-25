@@ -22,8 +22,8 @@ It's collected from wikiart dataset
 	10. Ukiyo_e
 
 *Note that we took a look at the paper that uses this dataset. It's titled as: 
-	'Ceci n’est pas une pipe: A Deep Convolutional Network for Fine-art Paintings Classi?cation',Center of Image and Signal Processing, Faculty of Computer Science & Information Technology, University of Malaya, Kuala Lumpur, Malaysia 
+	'Ceci nâ€™est pas une pipe: A Deep Convolutional Network for Fine-art Paintings Classi?cation',Center of Image and Signal Processing, Faculty of Computer Science & Information Technology, University of Malaya, Kuala Lumpur, Malaysia 
 (Referenced in the poster) 
 * We tried building their architecture which is based on Alexnet but unfortunately it gave exhaustion error due to memory
 problems since it's very deep. As a result we relied more on pretrained models on Imagenet. 
-(More details of this architecture are in the poster)
+(More details of this architecture are in the poster: https://drive.google.com/file/d/1-qC2MC5xIN-l1Uqq_ied6Y32FgrZWfVW/view?usp=sharing)
